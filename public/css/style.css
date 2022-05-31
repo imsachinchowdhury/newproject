@@ -1,0 +1,13 @@
+body{
+    width: 100%;
+    background:url('b1.jpg') ;
+    background-position:center;
+  
+
+}
+
+#card{
+    position: absolute;
+    top: 23%;
+    left: 16%;
+}
